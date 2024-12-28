@@ -14,7 +14,7 @@ To be completed...
  4. Edit this `README.md` file, then find and replace this button url bellow with yours `https://github.com/victorgeel/v2ray-worker` then save it.
  4. then press `Deploy With Workers` and follow the instruction
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://ra.nothing1.workers.dev/)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/victorgeel/v2ray-worker)
 
 ### Credits
 Built-in vless config generator is based on [Zizifn Edge Tunnel](https://github.com/zizifn/edgetunnel), re-written using Typescript.
